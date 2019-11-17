@@ -2,16 +2,6 @@
 	"us_data": [
 		{ "regionName":"Alabama","code":"AL", "value": 89 },
 		{ "regionName":"Alaska","code":"AK", "value": 112 },
-		{ "regionName":"Arizona","code":"AZ", "value": 101 },
-		{ "regionName":"Arkansas","code":"AR", "value": 123 },
-		{ "regionName":"California","code":"CA", "value": 145 },
-		{ "regionName":"Colorado","code":"CO", "value": 98 },
-		{ "regionName":"Connecticut","code":"CT", "value": 101 },
-		{ "regionName":"Delaware","code":"DE", "value": 109 },
-		{ "regionName":"Florida","code":"FL", "value": 122 },
-		{ "regionName":"Georgia","code":"GA", "value": 91 },
-		{ "regionName":"Hawaii","code":"HI", "value": 131 },
-		{ "regionName":"Idaho","code":"ID", "value": 110 },
-		{ "regionName":"Illinois","code":"IL", "value": 134 }
+		{ "regionName":"Arizona","code":"AZ", "value": 101 }
 	]
 }
