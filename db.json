@@ -1,6 +1,6 @@
 {
 	"us_data": 
-		"data" :
+		"data":
 		[
 			{ "regionName":"Alabama","code":"AL", "value": 89 },
 			{ "regionName":"Alaska","code":"AK", "value": 112 },
