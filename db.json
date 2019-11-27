@@ -1,7 +1,9 @@
 {
-	"us_data": [
-		{ "regionName":"Alabama","code":"AL", "value": 89 },
-		{ "regionName":"Alaska","code":"AK", "value": 112 },
-		{ "regionName":"Arizona","code":"AZ", "value": 101 }
-	]
+	"us_data": 
+		"data" :
+		[
+			{ "regionName":"Alabama","code":"AL", "value": 89 },
+			{ "regionName":"Alaska","code":"AK", "value": 112 },
+			{ "regionName":"Arizona","code":"AZ", "value": 101 }
+		]
 }
